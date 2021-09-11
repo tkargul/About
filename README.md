@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tomek
-- 👀 I’m interested in thermal analysis, metallurgy, modelling of processes also
+- 👀 I’m interested in TG/DSC thermal analysis, metallurgy, modelling of processes also
      interested in creating websites: HTML,CSS,PHP and e-learning.
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on 
